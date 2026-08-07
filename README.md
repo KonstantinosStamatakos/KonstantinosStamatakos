@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi, I'm Konstantinos Stamatakos 👋
 
-<!--
-**KonstantinosStamatakos/KonstantinosStamatakos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electrical Engineering + Mathematics @ Tufts University
 
-Here are some ideas to get you started:
+I'm interested in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- FPGA & Digital Design
+- Embedded Systems
+- Low-Latency Hardware
+- Rocket Avionics
+
+---
+
+## Featured Projects
+
+🚀 Rocket Flight Computer
+- STM32F405
+- BMP581
+- LSM6DSO32
+- GPS
+- SDIO + FatFs
+- USB CDC
+- Kalman Filter
+
+🛰 Rocketry
+- NAR Level 1 High Power Certification
+- Level 2 Rocket Development
+- Custom Avionics Bay
+
+👁 Neuromorphic Vision Sensor
+- ESP32
+- LM324
+- Event-Based Vision
+- Real-Time Motion Detection
+
+---
+
+## Languages
+
+- C
+- C++
+- SystemVerilog
+- Verilog
+- Python
+
+---
+
+## Tools
+
+- STM32CubeIDE
+- KiCad
+- Onshape
+- Git
+- VS Code
+
+---
+
+Thanks for visiting my profile!
