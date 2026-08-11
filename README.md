@@ -1,57 +1,89 @@
 # Hi, I'm Konstantinos Stamatakos 👋
 
-Electrical Engineering + Mathematics @ Tufts University
+Electrical Engineering @ Tufts University
 
-I'm interested in:
+I'm interested in building high-performance hardware and embedded systems, with a focus on:
 
 - FPGA & Digital Design
 - Embedded Systems
-- Low-Latency Hardware
 - Rocket Avionics
 
 ---
 
 ## Featured Projects
 
-🚀 Rocket Flight Computer
-- STM32F405
-- BMP581
-- LSM6DSO32
+### FPGA Trading Engine
+
+SystemVerilog trading engine implementing hardware order-book management and price-time-priority matching.
+
+- Order insertion, cancellation, matching, and partial fills
+- Price-time priority
+- SystemVerilog RTL + verification
+- 20-cycle end-to-end processing latency
+- Timing closure at 100 MHz on Xilinx Artix-7
+- Post-implementation timing and resource optimization
+- Verilator + AMD Vivado
+
+### Rocket Flight Computer
+
+Custom STM32F405-based flight computer for high-power rocketry.
+
+- BMP581 barometer
+- LSM6DSO32 IMU
 - GPS
-- SDIO + FatFs
+- SDIO + FatFs data logging
 - USB CDC
-- Kalman Filter
+- Kalman-filtered altitude and vertical-velocity estimation
+- Custom PCB + embedded C firmware
 
-🛰 Rocketry
+### Neuromorphic Vision Sensor
+
+Two-pixel event-based vision system for asynchronous motion detection.
+
+- Custom LM324 analog front-end
+- Photodiode sensing
+- ESP32 interrupt-driven processing
+- Asynchronous event detection
+- Motion-direction estimation
+- Python visualization and analysis
+
+### High-Power Rocketry
+
+Design and construction of high-power model rockets.
+
 - NAR Level 1 High Power Certification
-- Level 2 Rocket Development
-- Custom Avionics Bay
-
-👁 Neuromorphic Vision Sensor
-- ESP32
-- LM324
-- Event-Based Vision
-- Real-Time Motion Detection
+- Level 2 rocket development
+- Custom avionics integration
+- CAD and mechanical design
+- 3D printing and laser-cut fabrication
 
 ---
 
 ## Languages
 
-- C
-- C++
 - SystemVerilog
 - Verilog
+- C
+- C++
 - Python
 
 ---
 
-## Tools
+## Tools & Platforms
 
+- AMD Vivado
+- Verilator
+- GTKWave
 - STM32CubeIDE
 - KiCad
 - Onshape
-- Git
 - VS Code
+
+---
+
+## Current Focus
+
+Currently exploring FPGA architectures for low-latency systems, digital hardware design, and embedded electronics.
 
 ---
 
