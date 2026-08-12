@@ -8,8 +8,6 @@ I'm interested in building high-performance hardware and embedded systems, with 
 - Embedded Systems
 - Rocket Avionics
 
----
-
 ## Featured Projects
 
 ### FPGA Trading Engine
@@ -57,8 +55,6 @@ Design and construction of high-power model rockets.
 - CAD and mechanical design
 - 3D printing and laser-cut fabrication
 
----
-
 ## Languages
 
 - SystemVerilog
@@ -67,7 +63,6 @@ Design and construction of high-power model rockets.
 - C++
 - Python
 
----
 
 ## Tools & Platforms
 
@@ -79,12 +74,9 @@ Design and construction of high-power model rockets.
 - Onshape
 - VS Code
 
----
-
 ## Current Focus
 
 Currently exploring FPGA architectures for low-latency systems, digital hardware design, and embedded electronics.
 
----
 
 Thanks for visiting my profile!
